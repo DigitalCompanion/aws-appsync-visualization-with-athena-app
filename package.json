@@ -7,7 +7,7 @@
     "aws-amplify-react": "^3.1.7",
     "d3": "^5.15.0",
     "d3-hexbin": "^0.2.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0"
